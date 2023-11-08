@@ -1,0 +1,33 @@
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/appsettings.Development.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/appsettings.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/StudenteEngagement - MaxMinAttendence
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/StudenteEngagement - MaxMinAttendence.deps.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/StudenteEngagement - MaxMinAttendence.runtimeconfig.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/StudenteEngagement - MaxMinAttendence.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/StudenteEngagement - MaxMinAttendence.pdb
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.csproj.AssemblyReference.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.AssemblyInfoInputs.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.AssemblyInfo.cs
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.csproj.CoreCompileInputs.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.MvcApplicationPartsAssemblyInfo.cs
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.MvcApplicationPartsAssemblyInfo.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/staticwebassets/msbuild.StudenteEngagement - MaxMinAttendence.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/staticwebassets/msbuild.build.StudenteEngagement - MaxMinAttendence.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.StudenteEngagement - MaxMinAttendence.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.StudenteEngagement - MaxMinAttendence.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/staticwebassets.build.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/staticwebassets.development.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/scopedcss/bundle/StudenteEngagement - MaxMinAttendence.styles.css
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.csproj.CopyComplete
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/refint/StudenteEngagement - MaxMinAttendence.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.pdb
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/StudenteEngagement - MaxMinAttendence.genruntimeconfig.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/StudenteEngagement - MaxMinAttendence/obj/Debug/net7.0/ref/StudenteEngagement - MaxMinAttendence.dll
