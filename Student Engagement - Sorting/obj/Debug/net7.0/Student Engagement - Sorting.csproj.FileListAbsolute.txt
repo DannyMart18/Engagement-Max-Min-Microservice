@@ -1,0 +1,33 @@
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/appsettings.Development.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/appsettings.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Student Engagement - Sorting
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Student Engagement - Sorting.deps.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Student Engagement - Sorting.runtimeconfig.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Student Engagement - Sorting.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Student Engagement - Sorting.pdb
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.csproj.AssemblyReference.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.AssemblyInfoInputs.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.AssemblyInfo.cs
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.csproj.CoreCompileInputs.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.MvcApplicationPartsAssemblyInfo.cs
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.MvcApplicationPartsAssemblyInfo.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/staticwebassets/msbuild.Student Engagement - Sorting.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/staticwebassets/msbuild.build.Student Engagement - Sorting.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Student Engagement - Sorting.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Student Engagement - Sorting.props
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/staticwebassets.build.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/staticwebassets.development.json
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/scopedcss/bundle/Student Engagement - Sorting.styles.css
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.csproj.CopyComplete
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/refint/Student Engagement - Sorting.dll
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.pdb
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/Student Engagement - Sorting.genruntimeconfig.cache
+/Users/daniel/RiderProjects/StudenteEngagement - MaxMinAttendence/Student Engagement - Sorting/obj/Debug/net7.0/ref/Student Engagement - Sorting.dll
