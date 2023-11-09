@@ -11,9 +11,17 @@ public class MaxMinController: ControllerBase
     [HttpPost]
     public ActionResult GetMaxMinAttendance([FromBody] AttendanceData data){
         
-        var attendanceNumbers =  new [] {data.Lecture, data.Lab, data.Support, data.Canvas};
-        var max = attendanceNumbers.Max();
-        var min = attendanceNumbers.Min();
+        var attendanceList = new[]
+        {
+            new { Name = "Lecture", Number = data.Lecture },
+            new { Name = "Lab", Number = data.Lab },
+            new { Name = "Support", Number = data.Support },
+            new { Name = "Canvas", Number = data.Canvas }
+        };
+
+        var max = attendanceList.OrderByDescending(a => a.Number).First();
+        var min = attendanceList.OrderBy(a => a.Number).First();
+
         
         if(data.Lecture > 33){
             return BadRequest("Lecture hours cannot be greater than 33");
@@ -34,8 +42,8 @@ public class MaxMinController: ControllerBase
 
         var result = new
         {
-            maxAttendance = max,
-            minAttendance = min
+            MaxAttendance = $"{max.Name} - {max.Number}",
+            MinAttendance = $"{min.Name} - {min.Number}"
         };
 
         return Ok(result);
